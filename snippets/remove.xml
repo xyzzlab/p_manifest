@@ -68,7 +68,6 @@
 
   <!-- External repos -->
   <remove-project name="platform/external/avb" />
-  <remove-project name="platform/external/boringssl" />
   <remove-project name="platform/external/cldr" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/gptfdisk" />
